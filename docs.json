@@ -1,6 +1,6 @@
 {
   "$schema": "https://mintlify.com/docs.json",
-  "theme": "Linden",
+  "theme": "willow",
   "name": "Host Conductor Docs",
   "colors": {
     "primary": "#e97439",
